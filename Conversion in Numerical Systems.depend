@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723293193 source:f:\programming\c\mini projects\conversion in numerical systems\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conversion.h"
+
+1723292807 f:\programming\c\mini projects\conversion in numerical systems\conversion.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1724785823 source:f:\programming\c\mini projects\conversion in numerical systems\conversion.c
+
